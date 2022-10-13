@@ -6,7 +6,10 @@ This project is for Columbia University COMS 6998 Cloud Computing course. We bui
 - Backend: AWS
 - Frontend: HTML + CSS + JavaScript
 
+#### Architecture
 <img src="img/arch.png">
+
+#### Demo
 <img src="img/home.png">
 <img src="img/meeting.png">
 <img src="img/vote.png">
